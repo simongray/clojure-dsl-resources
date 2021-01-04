@@ -79,6 +79,7 @@ Not _technically_ DSLs, but included here to complete the parsing section.
 * [ekoontz/menard](https://github.com/ekoontz/menard): A Clojure library for generation and parsing expressions from grammars and lexicons.
 
 ### Clojure code
+* [clojure/tools.analyzer](https://github.com/clojure/tools.analyzer): An analyzer for host agnostic Clojure code, written in Clojure and producing AST in EDN.
 * [clj-commons/rewrite-clj](https://github.com/clj-commons/rewrite-clj): rewrite-clj is a library offering mechanisms to easily rewrite Clojure/EDN documents in a whitespace- and comment-preserving way.
   - [clj-commons/rewrite-cljs](https://github.com/clj-commons/rewrite-cljs): This library is a ClojureScript port of rewrite-clj.
   - [lread/rewrite-cljc-playground](https://github.com/lread/rewrite-cljc-playground): Working towards rewrite-cljc. Still conservatively pre-alpha, will release on clojars after moving to clj-commons.
