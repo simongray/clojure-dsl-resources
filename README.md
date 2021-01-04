@@ -21,6 +21,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [metosin/malli](https://github.com/metosin/malli): Data-driven Schemas for Clojure/Script.
 * [oakes/edna](https://github.com/oakes/edna): A Clojure library for making music with edn data.
 * [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
+* [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
 * **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
 ### Traditional Lisp DSLs
