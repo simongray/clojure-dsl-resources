@@ -33,11 +33,11 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [cerner/clara-rules](https://github.com/cerner/clara-rules): Clara is a forward-chaining rules engine written in Clojure(Script) with Java interoperability.
 
 ### Text-based DSLs
-Some DSLs are implemented in Clojure, but aren't written as Clojure code.
+Some DSLs are implemented in Clojure, but compiled or interpreted from text.
 
 * [alda-lang/alda](https://github.com/alda-lang/alda): Alda is a text-based programming language for music composition.
   - [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
-* [borkdude/sci](https://github.com/borkdude/sci): A limited dialect of Clojure for a single-purpose, scripted application.
+* [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 
 Data transformation
 -------------------
