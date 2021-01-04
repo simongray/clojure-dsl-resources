@@ -37,6 +37,7 @@ Some DSLs are implemented in Clojure, but aren't written as Clojure code.
 
 * [alda-lang/alda](https://github.com/alda-lang/alda): Alda is a text-based programming language for music composition.
   - [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
+* [borkdude/sci](https://github.com/borkdude/sci): A limited dialect of Clojure for a single-purpose, scripted application.
 
 Data transformation
 -------------------
@@ -79,7 +80,9 @@ Not _technically_ DSLs, but included here to complete the parsing section.
 * [ekoontz/menard](https://github.com/ekoontz/menard): A Clojure library for generation and parsing expressions from grammars and lexicons.
 
 ### Clojure code
+* [clojure/tools.reader](https://github.com/clojure/tools.reader): A complete Clojure reader and an EDN-only reader.
 * [clojure/tools.analyzer](https://github.com/clojure/tools.analyzer): An analyzer for host agnostic Clojure code, written in Clojure and producing AST in EDN.
+* [borkdude/edamame](https://github.com/borkdude/edamame): Configurable EDN/Clojure parser with location metadata.
 * [clj-commons/rewrite-clj](https://github.com/clj-commons/rewrite-clj): rewrite-clj is a library offering mechanisms to easily rewrite Clojure/EDN documents in a whitespace- and comment-preserving way.
   - [clj-commons/rewrite-cljs](https://github.com/clj-commons/rewrite-cljs): This library is a ClojureScript port of rewrite-clj.
   - [lread/rewrite-cljc-playground](https://github.com/lread/rewrite-cljc-playground): Working towards rewrite-cljc. Still conservatively pre-alpha, will release on clojars after moving to clj-commons.
