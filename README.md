@@ -50,6 +50,19 @@ Some DSLs are implemented in Clojure, but compiled or interpreted from text.
   - [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
 * [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 
+Data-oriented configuration
+---------------------------
+In most Clojure software there is a guiding principle of _data > functions > macros_. It has resulted in a convention of using mostly data structures to configure the behaviour of systems. This practice has also led to frequent repurposing of data structures. In many cases, the repurposing crosses into a grey zone somewhere between a DSL and idiomatic use.
+
+* [pedestal/pedestal](https://github.com/pedestal/pedestal): Pedestal is a set of libraries written in Clojure that aims to bring both the language and its principles to server-side development.
+* [metosin/reitit](https://github.com/metosin/reitit): A fast, data-driven router for Clojure(Script).
+* [juxt/bidi](https://github.com/juxt/bidi): Bidirectional URI routing.
+* [juxt/yada](https://github.com/juxt/yada): Yada is a web library. Whereas bidi is based on routes as data, yada is based on resources as data.
+
+### Honourable mentions
+These libraries are not really data-oriented, but can be considered popular mini-DSLs in their own right.
+
+* [weavejester/compojure](https://github.com/weavejester/compojure): Compojure is a small routing library for Ring that allows web applications to be composed of small, independent parts.
 
 Parsing
 -------
