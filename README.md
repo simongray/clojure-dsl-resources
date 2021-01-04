@@ -24,6 +24,17 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
 * **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
+### Data matching/transformation DSLs
+Most of these could also be considered data-based DSLs, but I think they deserve a category of their own.
+
+* [noprompt/meander](https://github.com/noprompt/meander): A library that empowers you to write transparent data transformation code that allows you to plainly see the input and output of these transformations.
+* [juji-io/editscript](https://github.com/juji-io/editscript): A library designed to diff and patch Clojure data structures.
+* [disalvjn/faconne](https://github.com/disalvjn/faconne): Data Restructuring DSL.
+* [HealthSamurai/ironhide](https://github.com/HealthSamurai/ironhide): A runtime agnostic bidirectional data-driven transformation domain-specific language for fun and profit.
+* [redplanetlabs/specter](https://github.com/redplanetlabs/specter): Specter rejects Clojure's restrictive approach to immutable data structure manipulation, instead exposing an elegant API to allow any sort of manipulation imaginable.
+* [xapix-io/matchete](https://github.com/xapix-io/matchete): 
+Yet another pattern matching library for Clojure(Script).
+
 ### Traditional Lisp DSLs
 * [clojure/core.logic](https://github.com/clojure/core.logic): Offers Prolog-like relational programming, constraint logic programming, and nominal logic programming for Clojure.
 * [quil/quil](https://github.com/quil/quil): Clojure/ClojureScript library for creating interactive drawings and animations.
@@ -39,15 +50,6 @@ Some DSLs are implemented in Clojure, but compiled or interpreted from text.
   - [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
 * [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 
-Data transformation
--------------------
-These could also be considered data-based DSLs, but I think they deserve a category of their own.
-
-* [noprompt/meander](https://github.com/noprompt/meander): A library that empowers you to write transparent data transformation code that allows you to plainly see the input and output of these transformations.
-* [juji-io/editscript](https://github.com/juji-io/editscript): A library designed to diff and patch Clojure data structures.
-* [disalvjn/faconne](https://github.com/disalvjn/faconne): Data Restructuring DSL.
-* [HealthSamurai/ironhide](https://github.com/HealthSamurai/ironhide): A runtime agnostic bidirectional data-driven transformation domain-specific language for fun and profit.
-* [redplanetlabs/specter](https://github.com/redplanetlabs/specter): Specter rejects Clojure's restrictive approach to immutable data structure manipulation, instead exposing an elegant API to allow any sort of manipulation imaginable.
 
 Parsing
 -------
