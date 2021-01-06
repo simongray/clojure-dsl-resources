@@ -19,6 +19,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [QikLiang/GraphQL-format.clj](https://github.com/QikLiang/GraphQL-format.clj): For building GraphQL queries and transforming the output data in a declaritive format in the style of [Meander](https://github.com/noprompt/meander).
 * [plumatic/schema](https://github.com/plumatic/schema): A Clojure(Script) library for declarative data description and validation.
 * [metosin/malli](https://github.com/metosin/malli): Data-driven Schemas for Clojure/Script.
+* [green-coder/minimallist](https://github.com/green-coder/minimallist): A minimalist data driven data model library, inspired by Clojure Spec and Malli.
 * [oakes/edna](https://github.com/oakes/edna): A Clojure library for making music with edn data.
 * [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
@@ -113,6 +114,12 @@ Miscellaneous
 * [jkk/formative](https://github.com/jkk/formative): Web forms for Clojure and ClojureScript - rendering, parsing, and validating.
 * [agentbellnorm/dativity](https://github.com/agentbellnorm/dativity): Dativity is a stateless, data driven workflow engine library for Clojure and ClojureScript.
 * [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp): A Language Server for Clojure. Taking a Cursive-like approach of statically analyzing code.
+
+Work-in-progress
+----------------
+Some projects are both actively developed and interesting enough to include on this list, but aren't quite ready yet.
+
+* [green-coder/vrac](https://github.com/green-coder/vrac): Declarative html template library from the future.
 
 Articles/videos
 ---------------
