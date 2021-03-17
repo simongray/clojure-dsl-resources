@@ -46,6 +46,7 @@ Yet another pattern matching library for Clojure(Script).
 * [ctford/leipzig](https://github.com/ctford/leipzig): A music composition library for Clojure and Clojurescript.
   - [ctford/klangmeister](https://github.com/ctford/klangmeister): A musical scratchpad. Klangmeister uses Leipzig for all of its music composition.
 * [cerner/clara-rules](https://github.com/cerner/clara-rules): Clara is a forward-chaining rules engine written in Clojure(Script) with Java interoperability.
+  - [clyfe/clara-eav](https://github.com/clyfe/clara-eav): ClaraEAV is a thin layer over Clara-Rules API that simplifies working with EAV triplets.
 * [lspector/Clojush](https://github.com/lspector/Clojush): The Push programming language and the PushGP genetic programming system implemented in Clojure.
 * [adam-james-v/svg-clj](https://github.com/adam-james-v/svg-clj): DSL for compiling SVG elements with Clojure(script).
 * [google/clojure-turtle](https://github.com/google/clojure-turtle): A Clojure library that implements the Logo programming language in a Clojure context.
