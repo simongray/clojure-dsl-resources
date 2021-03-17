@@ -20,6 +20,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [plumatic/schema](https://github.com/plumatic/schema): A Clojure(Script) library for declarative data description and validation.
 * [metosin/malli](https://github.com/metosin/malli): Data-driven Schemas for Clojure/Script.
 * [green-coder/minimallist](https://github.com/green-coder/minimallist): A minimalist data driven data model library, inspired by Clojure Spec and Malli.
+* [kwrooijen/gungnir](https://github.com/kwrooijen/gungnir): A fully featured, data-driven database library for Clojure.
 * [oakes/edna](https://github.com/oakes/edna): A Clojure library for making music with edn data.
 * [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
   - [oakes/odoyle-rum](https://github.com/oakes/odoyle-rum): What if we used a rules engine to manage all the state of a frontend UI? Can a rules engine replace reframe?
