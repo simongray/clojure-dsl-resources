@@ -45,6 +45,7 @@ Yet another pattern matching library for Clojure(Script).
   - [ctford/klangmeister](https://github.com/ctford/klangmeister): A musical scratchpad. Klangmeister uses Leipzig for all of its music composition.
 * [cerner/clara-rules](https://github.com/cerner/clara-rules): Clara is a forward-chaining rules engine written in Clojure(Script) with Java interoperability.
 * [lspector/Clojush](https://github.com/lspector/Clojush): The Push programming language and the PushGP genetic programming system implemented in Clojure.
+* [adam-james-v/svg-clj](https://github.com/adam-james-v/svg-clj): DSL for compiling SVG elements with Clojure(script).
 
 ### Text-based DSLs
 Some DSLs are implemented in Clojure, but compiled or interpreted from text.
