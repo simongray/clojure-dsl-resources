@@ -38,6 +38,7 @@ Most of these could also be considered data-based DSLs, but I think they deserve
 * [redplanetlabs/specter](https://github.com/redplanetlabs/specter): Specter rejects Clojure's restrictive approach to immutable data structure manipulation, instead exposing an elegant API to allow any sort of manipulation imaginable.
 * [xapix-io/matchete](https://github.com/xapix-io/matchete): 
 Yet another pattern matching library for Clojure(Script).
+* [TristeFigure/derrida](https://github.com/TristeFigure/derrida): Destructuring "Destructuring".
 
 ### Traditional Lisp DSLs
 * [clojure/core.logic](https://github.com/clojure/core.logic): Offers Prolog-like relational programming, constraint logic programming, and nominal logic programming for Clojure.
