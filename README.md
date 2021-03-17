@@ -23,6 +23,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [oakes/edna](https://github.com/oakes/edna): A Clojure library for making music with edn data.
 * [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
+* [zen-lang/zen](https://github.com/zen-lang/zen): Zen is a framework to unify Data DSLs, make them composable and take model driven design to the next level.
 * **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
 ### Data matching/transformation DSLs
