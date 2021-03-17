@@ -47,6 +47,7 @@ Yet another pattern matching library for Clojure(Script).
 * [cerner/clara-rules](https://github.com/cerner/clara-rules): Clara is a forward-chaining rules engine written in Clojure(Script) with Java interoperability.
 * [lspector/Clojush](https://github.com/lspector/Clojush): The Push programming language and the PushGP genetic programming system implemented in Clojure.
 * [adam-james-v/svg-clj](https://github.com/adam-james-v/svg-clj): DSL for compiling SVG elements with Clojure(script).
+* [google/clojure-turtle](https://github.com/google/clojure-turtle): A Clojure library that implements the Logo programming language in a Clojure context.
 
 ### Text-based DSLs
 Some DSLs are implemented in Clojure, but compiled or interpreted from text.
