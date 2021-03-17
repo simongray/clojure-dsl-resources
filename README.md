@@ -115,6 +115,7 @@ Not _technically_ DSLs, but included here to complete the parsing section.
   - See [oakes/html-soup](
 https://github.com/oakes/html-soup) for an example of a library that uses parinferish as a parser.
 * [carocad/parcera](https://github.com/carocad/parcera): Grammar-based Clojure(script) parser.
+* [echeran/kalai](https://github.com/echeran/kalai): A source-to-source transpiler to convert Clojure to multiple target languages (Rust, C++, Java, ...).
 
 Miscellaneous
 -------------
