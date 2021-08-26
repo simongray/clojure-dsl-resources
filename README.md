@@ -27,6 +27,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [frankiesardo/minikusari](https://github.com/frankiesardo/minikusari): minikusari is a minimal rule engine built on top of Datascript (and can work with Datomic or Datahike).
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
 * [zen-lang/zen](https://github.com/zen-lang/zen): Zen is a framework to unify Data DSLs, make them composable and take model driven design to the next level.
+* [sbocq/cronit](https://github.com/sbocq/cronit): A Clojure library to iterate over time points defined by a cron like expression.
 * **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
 ### Data matching/transformation DSLs
