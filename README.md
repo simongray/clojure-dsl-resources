@@ -54,6 +54,7 @@ Yet another pattern matching library for Clojure(Script).
 * [adam-james-v/svg-clj](https://github.com/adam-james-v/svg-clj): DSL for compiling SVG elements with Clojure(script).
 * [google/clojure-turtle](https://github.com/google/clojure-turtle): A Clojure library that implements the Logo programming language in a Clojure context.
 * [farrellm/scad-clj](https://github.com/farrellm/scad-clj): OpenSCAD DSL in Clojure.
+* [athos/JiSE](https://github.com/athos/JiSE): JiSE is a Clojure DSL library that compiles a Java-like language into JVM bytecode at macroexpansion time.
 
 ### Text-based DSLs
 Some DSLs are implemented in Clojure, but compiled or interpreted from text.
