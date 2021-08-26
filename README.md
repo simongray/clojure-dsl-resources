@@ -55,12 +55,11 @@ Yet another pattern matching library for Clojure(Script).
 * [google/clojure-turtle](https://github.com/google/clojure-turtle): A Clojure library that implements the Logo programming language in a Clojure context.
 * [farrellm/scad-clj](https://github.com/farrellm/scad-clj): OpenSCAD DSL in Clojure.
 * [athos/JiSE](https://github.com/athos/JiSE): JiSE is a Clojure DSL library that compiles a Java-like language into JVM bytecode at macroexpansion time.
+* [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
 
 ### Text-based DSLs
 Some DSLs are implemented in Clojure, but compiled or interpreted from text.
 
-* [alda-lang/alda](https://github.com/alda-lang/alda): Alda is a text-based programming language for music composition.
-  - [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
 * [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 
 Data-oriented configuration
