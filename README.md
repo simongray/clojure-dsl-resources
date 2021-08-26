@@ -28,6 +28,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
 * [zen-lang/zen](https://github.com/zen-lang/zen): Zen is a framework to unify Data DSLs, make them composable and take model driven design to the next level.
 * [sbocq/cronit](https://github.com/sbocq/cronit): A Clojure library to iterate over time points defined by a cron like expression.
+* [mauricioszabo/spock](https://github.com/mauricioszabo/spock): Wrappers of SWI and TuProlog in Clojure.
 * **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
 ### Data matching/transformation DSLs
