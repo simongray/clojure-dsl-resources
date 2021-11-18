@@ -11,6 +11,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 ### Data-based DSLs
 * [weavejester/hiccup](https://github.com/weavejester/hiccup): Hiccup is a library for representing HTML in Clojure.
 * [noprompt/garden](https://github.com/noprompt/garden): Garden is a library for rendering CSS in Clojure and ClojureScript.
+* [stathissideris/dali](https://github.com/stathissideris/dali): Build SVG graphics using a Hiccup-like DSL.
 * [cgrand/enlive](https://github.com/cgrand/enlive): A selector-based (à la CSS) templating and transformation system for Clojure.
 * [seancorfield/honeysql](https://github.com/seancorfield/honeysql): SQL as Clojure data structures.
 * [cljfx/cljfx](https://github.com/cljfx/cljfx): Declarative, functional, extensible wrapper of JavaFX inspired by the better parts of react and re-frame
