@@ -16,6 +16,7 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [seancorfield/honeysql](https://github.com/seancorfield/honeysql): SQL as Clojure data structures.
 * [cljfx/cljfx](https://github.com/cljfx/cljfx): Declarative, functional, extensible wrapper of JavaFX inspired by the better parts of react and re-frame
 * [lambdaisland/regal](https://github.com/lambdaisland/regal): Regal lets you manipulate regular expressions as data.
+* [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna): Wield the power of regex with the readability of English.
 * [riverford/datagrep](https://github.com/riverford/datagrep): grep for data, for quick and dirty filtering at the repl.
 * [QikLiang/GraphQL-format.clj](https://github.com/QikLiang/GraphQL-format.clj): For building GraphQL queries and transforming the output data in a declaritive format in the style of [Meander](https://github.com/noprompt/meander).
 * [plumatic/schema](https://github.com/plumatic/schema): A Clojure(Script) library for declarative data description and validation.
