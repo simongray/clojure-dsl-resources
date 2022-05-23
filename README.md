@@ -17,7 +17,8 @@ Lisp dialects traditionally make heavy use of macros to rewrite source code at c
 * [cgrand/enlive](https://github.com/cgrand/enlive): A selector-based (à la CSS) templating and transformation system for Clojure.
 * [seancorfield/honeysql](https://github.com/seancorfield/honeysql): SQL as Clojure data structures.
 * [yetanalytics/flint](https://github.com/yetanalytics/flint): A Clojure(Script) DSL for creating SPARQL query and update strings.
-* [cljfx/cljfx](https://github.com/cljfx/cljfx): Declarative, functional, extensible wrapper of JavaFX inspired by the better parts of react and re-frame
+* [cljfx/cljfx](https://github.com/cljfx/cljfx): Declarative, functional, extensible wrapper of JavaFX inspired by the better parts of react and re-frame.
+* [thlack/surfs](https://github.com/thlack/surfs): Surfs renders Slack blocks, elements, and composition objects from vectors.
 * [lambdaisland/regal](https://github.com/lambdaisland/regal): Regal lets you manipulate regular expressions as data.
 * [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna): Wield the power of regex with the readability of English.
 * [riverford/datagrep](https://github.com/riverford/datagrep): grep for data, for quick and dirty filtering at the repl.
