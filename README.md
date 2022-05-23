@@ -49,7 +49,6 @@ Most of these could also be considered data-based DSLs, but I think they deserve
 Yet another pattern matching library for Clojure(Script).
 * [bsless/impedance](https://github.com/bsless/impedance): Fast, declarative Clojure map transforms to solve impedance mismatch.
 * [TristeFigure/derrida](https://github.com/TristeFigure/derrida): Destructuring "Destructuring".
-* [gga/json-path](https://github.com/gga/json-path): An implementation of the JsonPath spec for Clojure.
 
 ### Traditional Lisp DSLs
 * [clojure/core.logic](https://github.com/clojure/core.logic): Offers Prolog-like relational programming, constraint logic programming, and nominal logic programming for Clojure.
@@ -67,9 +66,10 @@ Yet another pattern matching library for Clojure(Script).
 * [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
 
 ### Text-based DSLs
-Some DSLs are implemented in Clojure, but compiled or interpreted from text.
+Some DSLs are based on text, but work on Clojure data.
 
-* [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
+* [clj-holmes/shape-shifter](https://github.com/clj-holmes/shape-shifter): Transforms a string pattern into clojure spec.
+* [gga/json-path](https://github.com/gga/json-path): An implementation of the JsonPath spec for Clojure.
 
 Data-oriented configuration
 ---------------------------
@@ -119,6 +119,7 @@ Not _technically_ DSLs, but included here to complete the parsing section.
 * [ekoontz/menard](https://github.com/ekoontz/menard): A Clojure library for generation and parsing expressions from grammars and lexicons.
 
 ### Clojure code
+* [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
 * [clojure/tools.reader](https://github.com/clojure/tools.reader): A complete Clojure reader and an EDN-only reader.
 * [clojure/tools.analyzer](https://github.com/clojure/tools.analyzer): An analyzer for host agnostic Clojure code, written in Clojure and producing AST in EDN.
 * [borkdude/edamame](https://github.com/borkdude/edamame): Configurable EDN/Clojure parser with location metadata.
