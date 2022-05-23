@@ -42,6 +42,7 @@ Most of these could also be considered data-based DSLs, but I think they deserve
 * [juji-io/editscript](https://github.com/juji-io/editscript): A library designed to diff and patch Clojure data structures.
 * [disalvjn/faconne](https://github.com/disalvjn/faconne): Data Restructuring DSL.
 * [HealthSamurai/ironhide](https://github.com/HealthSamurai/ironhide): A runtime agnostic bidirectional data-driven transformation domain-specific language for fun and profit.
+* [escherize/tracks](https://github.com/escherize/tracks): Allows the user to create transformations declaratively.
 * [redplanetlabs/specter](https://github.com/redplanetlabs/specter): Specter rejects Clojure's restrictive approach to immutable data structure manipulation, instead exposing an elegant API to allow any sort of manipulation imaginable.
 * [xapix-io/matchete](https://github.com/xapix-io/matchete): 
 Yet another pattern matching library for Clojure(Script).
