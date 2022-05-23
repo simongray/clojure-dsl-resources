@@ -64,6 +64,7 @@ Yet another pattern matching library for Clojure(Script).
 * [farrellm/scad-clj](https://github.com/farrellm/scad-clj): OpenSCAD DSL in Clojure.
 * [athos/JiSE](https://github.com/athos/JiSE): JiSE is a Clojure DSL library that compiles a Java-like language into JVM bytecode at macroexpansion time.
 * [daveyarwood/alda-clj](https://github.com/daveyarwood/alda-clj): A Clojure library for live-coding music with Alda.
+* [latte-central/LaTTe](https://github.com/latte-central/LaTTe): LaTTe is a proof assistant library based on type theory.
 
 ### Text-based DSLs
 Some DSLs are based on text, but work on Clojure data.
