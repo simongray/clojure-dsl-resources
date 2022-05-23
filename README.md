@@ -95,6 +95,7 @@ Parsing
 
 ### Artificial languages
 * [davidsantiago/hickory](https://github.com/davidsantiago/hickory): Hickory parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
+* [green-coder/html-to-hiccup](https://github.com/green-coder/html-to-hiccup): An html->hiccup conversion function in pure CLJC.
 * [yogthos/markdown-clj](https://github.com/yogthos/markdown-clj): A markdown parser that compiles to both Clojure and ClojureScript.
 * [askonomm/clarktown](https://github.com/askonomm/clarktown): A zero-dependency Markdown parser.
 * [kiranshila/cybermonday](https://github.com/kiranshila/cybermonday): Cybermonday provides a Clojure(Script) interface to working with markdown as a hiccup AST.
@@ -135,12 +136,6 @@ Miscellaneous
 * [jkk/formative](https://github.com/jkk/formative): Web forms for Clojure and ClojureScript - rendering, parsing, and validating.
 * [agentbellnorm/dativity](https://github.com/agentbellnorm/dativity): Dativity is a stateless, data driven workflow engine library for Clojure and ClojureScript.
 * [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp): A Language Server for Clojure. Taking a Cursive-like approach of statically analyzing code.
-
-Work-in-progress
-----------------
-Some projects are both actively developed and interesting enough to include on this list, but aren't quite ready yet.
-
-* [green-coder/vrac](https://github.com/green-coder/vrac): Declarative html template library from the future.
 
 Articles/videos
 ---------------
