@@ -110,6 +110,7 @@ Parsing
 * [zsau/id3](https://github.com/zsau/id3): A simple ID3v2 parser, written in Clojure.
 * [l3nz/cli-matic](https://github.com/l3nz/cli-matic): Compact, hands-free [sub]command line parsing library for Clojure.
 * [smee/binary](https://github.com/smee/binary): This library is a high performance binary parser combinator.
+* [lambdaforge/datalog-parser](https://github.com/lambdaforge/datalog-parser): This parser is used by Datahike and follows the Datalog dialect of Datomic.
 
 ### Natural languages
 Not _technically_ DSLs, but included here to complete the parsing section.
