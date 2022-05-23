@@ -120,6 +120,7 @@ Not _technically_ DSLs, but included here to complete the parsing section.
 
 ### Clojure code
 * [borkdude/sci](https://github.com/borkdude/sci): Configurable Clojure interpreter suitable for scripting and Clojure DSLs.
+* [erdos/uclj](https://github.com/erdos/uclj): A small, quick-starting, native Clojure interpreter.
 * [clojure/tools.reader](https://github.com/clojure/tools.reader): A complete Clojure reader and an EDN-only reader.
 * [clojure/tools.analyzer](https://github.com/clojure/tools.analyzer): An analyzer for host agnostic Clojure code, written in Clojure and producing AST in EDN.
 * [borkdude/edamame](https://github.com/borkdude/edamame): Configurable EDN/Clojure parser with location metadata.
