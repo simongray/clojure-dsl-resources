@@ -48,6 +48,7 @@ Most of these could also be considered data-based DSLs, but I think they deserve
 Yet another pattern matching library for Clojure(Script).
 * [bsless/impedance](https://github.com/bsless/impedance): Fast, declarative Clojure map transforms to solve impedance mismatch.
 * [TristeFigure/derrida](https://github.com/TristeFigure/derrida): Destructuring "Destructuring".
+* [gga/json-path](https://github.com/gga/json-path): An implementation of the JsonPath spec for Clojure.
 
 ### Traditional Lisp DSLs
 * [clojure/core.logic](https://github.com/clojure/core.logic): Offers Prolog-like relational programming, constraint logic programming, and nominal logic programming for Clojure.
