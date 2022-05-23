@@ -96,6 +96,7 @@ Parsing
 ### Artificial languages
 * [davidsantiago/hickory](https://github.com/davidsantiago/hickory): Hickory parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 * [yogthos/markdown-clj](https://github.com/yogthos/markdown-clj): A markdown parser that compiles to both Clojure and ClojureScript.
+* [askonomm/clarktown](https://github.com/askonomm/clarktown): A zero-dependency Markdown parser.
 * [kiranshila/cybermonday](https://github.com/kiranshila/cybermonday): Cybermonday provides a Clojure(Script) interface to working with markdown as a hiccup AST.
 * [bnbeckwith/orgmode](https://github.com/bnbeckwith/orgmode): A Clojure library designed to parse mode files into clojure data structures.
 * [russellwhitaker/uap-clj](https://github.com/russellwhitaker/uap-clj): A Clojure library for extracting browser, operating system, and device information from a raw useragent string.
