@@ -158,4 +158,4 @@ Articles/videos
 Community
 ---------
 * [Clojurians Slack](https://clojurians.slack.com/messages): Where Clojure's most active users seem to hang out.
-  - [#parsers](https://clojurians.slack.com/archives/C01BMKFSL14)
+  - [#parsers](https://clojurians.slack.com/archives/CEJ641W0P)
