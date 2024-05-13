@@ -6,38 +6,48 @@ This is a curated list of mostly mature and/or actively developed Clojure resour
 
 Domain-specific languages
 -------------------------
-Lisp dialects traditionally make heavy use of macros to rewrite source code at compile time, opening the DSL floodgates. Somewhat unique to Clojure is a strong emphasis on using the core data literals to form DSLs. In either case, a supposed DSL could just as easily be considered a creative use of existing language features or a particularly well-designed API.
 
 ### Data-based DSLs
+Lisp dialects traditionally make heavy use of macros to rewrite source code at compile time, opening the DSL floodgates. Somewhat unique to Clojure is a strong emphasis on using the core data literals to form DSLs. In either case, a supposed DSL could just as easily be considered a creative use of existing language features or a particularly well-designed API.
+
+#### Web development
 * [weavejester/hiccup](https://github.com/weavejester/hiccup): Hiccup is a library for representing HTML in Clojure.
   - [lambdaisland/hiccup](https://github.com/lambdaisland/hiccup): Enlive-backed Hiccup implementation; behaves closer to how Hiccup works in Reagent.
 * [noprompt/garden](https://github.com/noprompt/garden): Garden is a library for rendering CSS in Clojure and ClojureScript.
 * [BrianChevalier/radiant](https://github.com/BrianChevalier/radiant): Write full featured CSS as Clojure data structures, inline.
-* [stathissideris/dali](https://github.com/stathissideris/dali): Build SVG graphics using a Hiccup-like DSL.
 * [cgrand/enlive](https://github.com/cgrand/enlive): A selector-based (à la CSS) templating and transformation system for Clojure.
+* [stathissideris/dali](https://github.com/stathissideris/dali): Build SVG graphics using a Hiccup-like DSL.
+
+#### Data schemas
+* [plumatic/schema](https://github.com/plumatic/schema): A Clojure(Script) library for declarative data description and validation.
+* [metosin/malli](https://github.com/metosin/malli): Data-driven Schemas for Clojure/Script.
+
+#### Database access
 * [seancorfield/honeysql](https://github.com/seancorfield/honeysql): SQL as Clojure data structures.
 * [yetanalytics/flint](https://github.com/yetanalytics/flint): A Clojure(Script) DSL for creating SPARQL query and update strings.
 * [wotbrew/relic](https://github.com/wotbrew/relic): Functional relational programming for Clojure(Script).
+* [QikLiang/GraphQL-format.clj](https://github.com/QikLiang/GraphQL-format.clj): For building GraphQL queries and transforming the output data in a declaritive format in the style of [Meander](https://github.com/noprompt/meander).
+* [kwrooijen/gungnir](https://github.com/kwrooijen/gungnir): A fully featured, data-driven database library for Clojure.
+
+#### Logic/rules
+* [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
+  - [oakes/odoyle-rum](https://github.com/oakes/odoyle-rum): What if we used a rules engine to manage all the state of a frontend UI? Can a rules engine replace reframe?
+* [frankiesardo/minikusari](https://github.com/frankiesardo/minikusari): minikusari is a minimal rule engine built on top of Datascript (and can work with Datomic or Datahike).
+* [mauricioszabo/spock](https://github.com/mauricioszabo/spock): Wrappers of SWI and TuProlog in Clojure.
+* [tatut/clj-prolog](https://github.com/tatut/clj-prolog): Use Prolog from Clojure via Projog.
+* **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
+
+#### Other data-based DSLs
 * [cljfx/cljfx](https://github.com/cljfx/cljfx): Declarative, functional, extensible wrapper of JavaFX inspired by the better parts of react and re-frame.
 * [thlack/surfs](https://github.com/thlack/surfs): Surfs renders Slack blocks, elements, and composition objects from vectors.
 * [lambdaisland/regal](https://github.com/lambdaisland/regal): Regal lets you manipulate regular expressions as data.
 * [AbhinavOmprakash/luna](https://github.com/AbhinavOmprakash/luna): Wield the power of regex with the readability of English.
 * [riverford/datagrep](https://github.com/riverford/datagrep): grep for data, for quick and dirty filtering at the repl.
-* [QikLiang/GraphQL-format.clj](https://github.com/QikLiang/GraphQL-format.clj): For building GraphQL queries and transforming the output data in a declaritive format in the style of [Meander](https://github.com/noprompt/meander).
-* [plumatic/schema](https://github.com/plumatic/schema): A Clojure(Script) library for declarative data description and validation.
-* [metosin/malli](https://github.com/metosin/malli): Data-driven Schemas for Clojure/Script.
 * [green-coder/minimallist](https://github.com/green-coder/minimallist): A minimalist data driven data model library, inspired by Clojure Spec and Malli.
-* [kwrooijen/gungnir](https://github.com/kwrooijen/gungnir): A fully featured, data-driven database library for Clojure.
 * [oakes/edna](https://github.com/oakes/edna): A Clojure library for making music with edn data.
-* [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules): A rules engine for Clojure and ClojureScript.
-  - [oakes/odoyle-rum](https://github.com/oakes/odoyle-rum): What if we used a rules engine to manage all the state of a frontend UI? Can a rules engine replace reframe?
-* [frankiesardo/minikusari](https://github.com/frankiesardo/minikusari): minikusari is a minimal rule engine built on top of Datascript (and can work with Datomic or Datahike).
 * [yonatane/bytegeist](https://github.com/yonatane/bytegeist): Define binary encoding using plain data.
 * [zen-lang/zen](https://github.com/zen-lang/zen): Zen is a framework to unify Data DSLs, make them composable and take model driven design to the next level.
 * [sbocq/cronit](https://github.com/sbocq/cronit): A Clojure library to iterate over time points defined by a cron like expression.
-* [mauricioszabo/spock](https://github.com/mauricioszabo/spock): Wrappers of SWI and TuProlog in Clojure.
-* [tatut/clj-prolog](https://github.com/tatut/clj-prolog): Use Prolog from Clojure via Projog.
-* **datalog**: See the relevant section in [simongray/clojure-graph-resources](https://github.com/simongray/clojure-graph-resources#datalog) for a list of libraries.
 
 ### Data matching/transformation DSLs
 Most of these could also be considered data-based DSLs, but I think they deserve a category of their own.
@@ -56,6 +66,8 @@ Yet another pattern matching library for Clojure(Script).
 * [esuomi/muotti](https://github.com/esuomi/muotti): A graph-based value transformer library.
 
 ### Traditional Lisp DSLs
+Macro-heavy code that transforms your programming language.
+
 * [clojure/core.logic](https://github.com/clojure/core.logic): Offers Prolog-like relational programming, constraint logic programming, and nominal logic programming for Clojure.
 * [quil/quil](https://github.com/quil/quil): Clojure/ClojureScript library for creating interactive drawings and animations.
 * [overtone/overtone](https://github.com/overtone/overtone): Overtone is an Open Source toolkit for designing synthesizers and collaborating with music.
