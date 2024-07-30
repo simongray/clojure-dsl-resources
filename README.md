@@ -162,9 +162,9 @@ Miscellaneous
 
 Articles/videos
 ---------------
-* [Growing a DSL with Clojure](http://clojure-doc.org/articles/tutorials/growing_a_dsl_with_clojure.html)
-* [Parsing XML in Clojure](http://clojure-doc.org/articles/tutorials/parsing_xml_with_zippers.html)
-* [Clojure Macros and Metaprogramming](http://clojure-doc.org/articles/language/macros.html)
+* [Growing a DSL with Clojure](https://clojure-doc.org/articles/cookbooks/growing_a_dsl_with_clojure/)
+* [Parsing XML in Clojure](https://clojure-doc.org/articles/cookbooks/parsing_xml_with_zippers/)
+* [Clojure Language: Macros](https://clojure-doc.org/articles/language/macros/)
 * [The Art of Tree Shaping with Clojure Zippers](https://lambdaisland.com/blog/2018-11-26-art-tree-shaping-clojure-zip)
 * [Building trees with and without zippers](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
 * [Writing Parser Combinator Library in Clojure](http://troydm.github.io/blog/2016/04/11/writing-parser-combinator-library-in-clojure/)
