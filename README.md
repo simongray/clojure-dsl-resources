@@ -168,7 +168,7 @@ Articles/videos
 * [The Art of Tree Shaping with Clojure Zippers](https://lambdaisland.com/blog/2018-11-26-art-tree-shaping-clojure-zip)
 * [Building trees with and without zippers](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
 * [Writing Parser Combinator Library in Clojure](http://troydm.github.io/blog/2016/04/11/writing-parser-combinator-library-in-clojure/)
-* [Constructing Clojure private DSLs on top of functions and function combinators](https://gist.github.com/TristeFigure/20dd01b0d3415f34075cfc02a1918106)
+* [Constructing Clojure private DSLs on top of functions and function combinators](https://web.archive.org/web/20221001144803/https://gist.github.com/TristeFigure/20dd01b0d3415f34075cfc02a1918106)
 
 Community
 ---------
